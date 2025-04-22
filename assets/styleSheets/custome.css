@@ -1,0 +1,11 @@
+.btnHref{
+    display: flex;
+    width: 210px;
+    height: 65px !important;
+    background-color:var(--btn-color);
+    color: white !important;
+    text-transform: capitalize;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+}
